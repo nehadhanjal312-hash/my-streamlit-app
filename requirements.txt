@@ -1,9 +1,4 @@
-os
-sys
-pathlib
-numpy
-pandas
-matplotlib
 streamlit
-streamlit.runtime 
-base64
+   pandas
+   numpy
+   pillow
